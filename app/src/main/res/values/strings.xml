@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">InClass09</string>
+    <string name="editTextLoginEmailHind">Email</string>
+    <string name="editTextLoginPasswordHint">Password</string>
+    <string name="buttonLoginLoginText">Login</string>
+    <string name="buttonLoginSignUpText">Sign Up</string>
+    <string name="buttonSignUpSignUpText">Sign Up</string>
+    <string name="buttonSignUpCancelText">Cancel</string>
+    <string name="editTextSignUpEmailHint">Email</string>
+    <string name="editTextSignUpPasswordHint">Password</string>
+    <string name="editTextSignUpPasswordConfirmHint">Confirm Password</string>
+    <string name="editTextSignUpFirstNameHint">First Name</string>
+    <string name="editTextSignUpLastNameHint">Last Name</string>
+    <string name="textViewDepartment">Department:</string>
+    <string name="buttonSubmitText">Submit</string>
+    <string name="buttonCreateContactText">Create Contact</string>
+    <string name="buttonLogOutText">Log Out</string>
+    <string name="radButSISText">SIS</string>
+    <string name="radButCSText">CS</string>
+    <string name="radButBIOText">BIO</string>
+    <string name="textAvatarPrompt">Select An Avatar</string>
+    <string name="textContactName">Name</string>
+    <string name="textContactEmail">Email</string>
+    <string name="textContactPhone">Phone</string>
+    <string name="textContactDept">Dept</string>
+    <string name="editTextAddContactNameHint">Name</string>
+    <string name="editTextAddContactEmailHint">Email</string>
+    <string name="editTextAddContactPhone">Phone</string>
+</resources>
